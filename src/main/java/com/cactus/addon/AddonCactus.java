@@ -1,8 +1,9 @@
 package com.cactus.addon;
 
-import com.cactus.addon.commands.CommandExample;
-import com.cactus.addon.hud.HudExample;
-import com.cactus.addon.modules.KillSound;
+import com.cactus.addon.commands.*;
+import com.cactus.addon.hud.*;
+import com.cactus.addon.modules.*;
+
 import com.mojang.logging.LogUtils;
 import meteordevelopment.meteorclient.addons.GithubRepo;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
@@ -11,6 +12,7 @@ import meteordevelopment.meteorclient.systems.hud.Hud;
 import meteordevelopment.meteorclient.systems.hud.HudGroup;
 import meteordevelopment.meteorclient.systems.modules.Category;
 import meteordevelopment.meteorclient.systems.modules.Modules;
+
 import org.slf4j.Logger;
 
 public class AddonCactus extends MeteorAddon {
@@ -24,6 +26,9 @@ public class AddonCactus extends MeteorAddon {
 
         // Modules
         Modules.get().add(new KillSound());
+        Modules.get().add(new Confuse());
+        Modules.get().add(new ChatBot());
+        Modules.get().add(new AutoFarm());
 
         // Commands
         Commands.add(new CommandExample());
