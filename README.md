@@ -10,7 +10,6 @@ It is still a huge work in progress.
 
 ### How to use | Build Way (Must have java with gradlew!)
 
-<p>Build Way</p>
 <p>1. Download the source code either from the releases or from any other place</p>
 <p>2. Unzip the source code.</p>
 <p>3. Type cmd in the search bar of your file explore.</p>
