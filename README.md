@@ -17,7 +17,7 @@ It is still a huge work in progress.
 <p>3. Type cmd in the search bar of your file explore.</p>
 <p>4. Now run ./gradlew build in the cmd.</p>
 <p>5. Put the jar in your mods folder with the Meteor Client.</p>
-<p>6. All done, You now have a cactus addon.</p>
+<p>6. Now you got the cactus addon.</p>
 
 # Features | Cactus Addon
 
