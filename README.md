@@ -1,5 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/77panic/CactusAddon/src/main/java/resources/temeplate/icon.png"/>
+![Logo](https://raw.githubusercontent.com/77panic/CactusAddon/src/main/java/resources/temeplate/icon.png)
+
 
 # Meteor Addon | Cactus Addon
 
