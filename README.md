@@ -2,6 +2,8 @@
 
 It is still a huge work in progress.
 
+# Download | Cactus Addon
+
 ### How to use | Simple Way
 
 <p>1. Download the jar in the releases.</p>
