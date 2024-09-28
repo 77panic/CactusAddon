@@ -6,7 +6,7 @@
 </div>
 
 <p>It is still a huge work in progress.</p>
-[Meteor Client](https://pages.github.com/](https://github.com/MeteorDevelopment/meteor-client/issues](https://github.com/77panic/CactusAddon/releases).
+https://pages.github.com/](https://github.com/MeteorDevelopment/meteor-client/issues](https://github.com/77panic/CactusAddon/releases
 
 # Download | Cactus Addon
 
