@@ -19,7 +19,11 @@
 
 </div>
 
-# Download | Cactus Addon
+<br>
+<br>
+<br>
+
+# Download
 
 ## How to use | Simple Way
 
@@ -34,7 +38,7 @@
 - Now put the jar in the mods folder with the Meteor Client.
 - And now you have the cactus addon.
 
-# Features | Cactus Addon
+# Features
 
 ## Modules
 
