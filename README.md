@@ -1,12 +1,15 @@
 # Meteor Addon | Cactus Addon
 
+<img src="https://img.shields.io/github/languages/code-size/77panic/CactusAddon" alt="GitHub code size in bytes"/>
+
 It is still a huge work in progress.
+[Meteor Client]([https://github.com/MeteorDevelopment/meteor-client/issues](https://github.com/77panic/CactusAddon/releases))
 
 # Download | Cactus Addon
 
 ## How to use | Simple Way
 
-- Download the jar in the releases.
+- Download the jar in the [Releases]([https://github.com/MeteorDevelopment/meteor-client/issues](https://github.com/77panic/CactusAddon/releases)).
 - Put the jar in your mods folder with the Meteor Client.
 - All done, You now have a cactus addon.
 
