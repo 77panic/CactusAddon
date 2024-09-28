@@ -1,5 +1,6 @@
 
-![Logo](https://raw.githubusercontent.com/77panic/CactusAddon/src/main/java/resources/temeplate/icon.png)
+<div align="center">
+    <img src="https://github.com/77panic/CactusAddon/blob/main/src/main/resources/assets/template/icon.png" width="200"/>
 
 
 # Meteor Addon | Cactus Addon
@@ -10,10 +11,17 @@
     <img src="https://img.shields.io/github/downloads/77panic/CactusAddon/total" alt="GitHub downloads"/>
 </div>
 
-<p>It is still a huge work in progress, very new project.</p>
-[Releases](https://github.com/MeteorDevelopment/meteor-client).
+<div>
+    <p></p>
+    <p>Cactus Addon For Meteor Client 🤑</p>
+    <p>Huge work in progress, very new project.</p>
+</div>
 
-# Download | Cactus Addon
+</div>
+
+<div align="center">
+    # Download | Cactus Addon
+</div>
 
 ## How to use | Simple Way
 
@@ -28,7 +36,9 @@
 - Now put the jar in the mods folder with the Meteor Client.
 - And now you have the cactus addon.
 
-# Features | Cactus Addon
+<div align="center">
+    # Features | Cactus Addon
+</div>
 
 ## Modules
 
