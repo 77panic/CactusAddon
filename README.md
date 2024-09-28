@@ -1,9 +1,9 @@
-# Meteor Addon | Cactus Addon
+ # Meteor Addon | Cactus Addon
 
 <div>
     <img src="https://img.shields.io/github/languages/code-size/77panic/CactusAddon" alt="GitHub code size in bytes"/>
     <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/77panic/CactusAddon/badge?filter=.java$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
-</div>div>
+</div>
 
 It is still a huge work in progress.
 [Meteor Client]([https://github.com/MeteorDevelopment/meteor-client/issues](https://github.com/77panic/CactusAddon/releases))
