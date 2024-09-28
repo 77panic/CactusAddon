@@ -5,14 +5,14 @@
     <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/77panic/CactusAddon/badge?filter=.java$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
 </div>
 
-<p>It is still a huge work in progress.</p>
+<p>It is still a huge work in progress, very new project.</p>
 
 
 # Download | Cactus Addon
 
 ## How to use | Simple Way
 
-- Download the jar in the [Releases](https://github.com/MeteorDevelopment/meteor-client/issues](https://github.com/77panic/CactusAddon/releases).
+- Download the jar in the [Releases](https://github.com/77panic/CactusAddon/releases).
 - Put the jar in your mods folder with the Meteor Client.
 - All done, You now have a cactus addon.
 
