@@ -21,4 +21,17 @@ It is still a huge work in progress.
 
 # Features | Cactus Addon
 
-Module
+## Modules
+
+- AutoFarm (Meteor Rejects Skid)
+- ChatBot (Meteor Rejects Fix)
+- Confuse (Meteor Rejects Skid)
+- KillSound
+
+## HUD Elements
+
+- No HUD Elements
+
+## Commands
+
+- No Commands
