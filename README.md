@@ -1,4 +1,7 @@
- # Meteor Addon | Cactus Addon
+
+<img src="https://raw.githubusercontent.com/77panic/CactusAddon/src/main/java/resources/temeplate/icon.png"/>
+
+# Meteor Addon | Cactus Addon
 
 <div>
     <img src="https://img.shields.io/github/languages/code-size/77panic/CactusAddon" alt="GitHub code size in bytes"/>
