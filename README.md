@@ -27,14 +27,14 @@
 
 - Download the jar in the [Releases](https://github.com/77panic/CactusAddon/releases).
 - Put the jar in your mods folder with the Meteor Client.
-- All done, You now have a cactus addon.
+- All done, You now have a Cactus Addon.
 
 ## How to use | Build Way (Must have Java with Gradlew!)
 
 - Clone this repository
 - Do `./gradlew build`
 - Now put the jar in the mods folder with the Meteor Client.
-- And now you have the cactus addon.
+- And now you have the Cactus Addon.
 
 # Features
 
