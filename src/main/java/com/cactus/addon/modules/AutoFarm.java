@@ -132,7 +132,7 @@ public class AutoFarm extends Module {
     int actions = 0;
 
     public AutoFarm() {
-        super(AddonCactus.CATEGORY, "auto-farm", "All-in-one farm utility.");
+        super(AddonCactus.CATEGORY, "Auto Farm", "All-in-one farm utility. (Meteor Rejects Skid)");
     }
 
     @Override

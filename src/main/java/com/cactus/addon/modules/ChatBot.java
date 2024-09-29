@@ -124,7 +124,7 @@ public class ChatBot extends Module {
 
                 try {
                     var section = MeteorStarscript.ss.run(script);
-                    ChatUtils.sendPlayerMsg(section.text); // Send Starscript-processed response
+                    ChatUtils.sendPlayerMsg(section.text);
                 } catch (StarscriptError e) {
                     MeteorStarscript.printChatError(e);
                     ChatUtils.sendPlayerMsg("An error occurred");
