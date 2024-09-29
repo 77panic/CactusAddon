@@ -40,6 +40,8 @@
 
 ## Modules
 
+- Aim Assist (Meteor Rejects Skid)
+- Auto Cope (Envy Client Skid)
 - AutoFarm (Meteor Rejects Skid)
 - ChatBot (Meteor Rejects Fix)
 - Confuse (Meteor Rejects Skid)
