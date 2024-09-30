@@ -13,7 +13,7 @@
 
 <div>
     <p></p>
-    <p>Cactus Addon For Meteor Client 🤑</p>
+    <p>1.21 Cactus Addon For Meteor Client 🤑</p>
     <p>Huge work in progress, very new project.</p>
 </div>
 
